@@ -14,4 +14,6 @@ Conteúdo
 - exemplos práticos de análise
 
 Objetivo
-Desenvolver mentalidade de segurança e base técnica para estudos avançados.
+Desenvolver base técnica em cyber security com foco defensivo,
+processos de segurança, resposta a incidentes e criação de playbooks,
+simulando atividades comuns em ambientes de SOC.
